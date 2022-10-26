@@ -28,7 +28,7 @@ h2 {
     background-color: tan;
 }
 p {
-    margin-top: 8.5%;
+    margin-top: 10%;
     margin-left: 1em;
     margin-right: 1em;
 }
@@ -73,6 +73,9 @@ p {
       border: 1px solid black;
       width: 98%;
       background-color: inherit;
+    }
+    .p2{
+        margin-top: 5%;
     }
   }
 

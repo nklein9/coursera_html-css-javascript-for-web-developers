@@ -17,15 +17,20 @@ h2 {
     width: 30%;
     float: right;
 }
-#subheader-1{
+#subheader-1 {
     background-color: salmon;
 }
-#subheader-2{
+#subheader-2 {
     background-color: red;
     color: white;
 }
-#subheader-3{
+#subheader-3 {
     background-color: tan;
+}
+p {
+    margin-top: 8.5%;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 /* Simple Responsive Framework. */
